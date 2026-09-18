@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Mohd Sahbaz</h1>
+<h1 align="left">Hi 👋, I'm Mohd Sahbaz Chaudhary</h1>
 
 <p align="left">
   I'm a passionate <strong>Software Developer</strong>. I love creating clean, modern, and scalable web applications that solve real-world problems. I'm always excited to explore new technologies and continuously grow as a developer.
